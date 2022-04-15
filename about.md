@@ -4,7 +4,7 @@
 ###  with a math minor at Quinnipiac University.  
 ###  I graduated from Marshfield High School in May of 2020 and will graduate from QU May 2024!
  
-![](../senior pic 1.jpg) 
+![senior pic 1](./assets/senior%20pic%201.jpg)
 
 ##  Why I decided coding: 
 
