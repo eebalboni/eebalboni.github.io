@@ -28,12 +28,11 @@
     I also am a part of the Student Programming Board at QU as a general member. There 
     I help with running campus events for the QU community. 
   
-## To Return to Home Page: 
-    https://eebalboni.github.io/
-## To Go To my Projects:
-    https://eebalboni.github.io/projects
-## To visit my LinkedIn: 
-    https://www.linkedin.com/in/eebalboni/
+## To return to home screen
+[Click here](./index.md)
+
+## To go to projects screen
+[Click here](./projects.md)
 
 
 

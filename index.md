@@ -6,11 +6,10 @@
 
 
 
-  ## Learn more about me here : https://eebalboni.github.io/about
+Learn more about me [Visit About Page](./about.md)
 
+Learn more about my projects [Visit Project Page](./projects.md)
 
-  ##  Learn more about my projects here: https://eebalboni.github.io/projects
-
-
+Visit my LinkedIn [click here](https://www.linkedin.com/in/eebalboni/)
 
 
