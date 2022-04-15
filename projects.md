@@ -7,8 +7,8 @@
      semester. This game was coded using Java and was one of the first time working
      with other students on a game.
 
-
-###[click here to visit the peppa pig game](https://github.com/eebalboni/Version-3)
+###
+[click here to visit the peppa pig game](https://github.com/eebalboni/Version-3)
 
 ### Legacy Code Project
      This project was submitted in December of 2021. During our software
@@ -16,8 +16,8 @@
      For the entire semester, my team and I followed a scrum sprint cycle. 
      The game was inspired by Mario Bros and was written in Java. 
 
-
-###[click here to visit our mario inspired game](https://github.com/mattcmerritt/Team-A1-SER-225-Game)
+###
+[click here to visit our mario inspired game](https://github.com/mattcmerritt/Team-A1-SER-225-Game)
 
 ### Android Fragment Project
      This project was submitted in April of 2022. Throughout the semester in our 
@@ -26,8 +26,8 @@
      Our app using an API for root notes and chords. Our app prompts the user to choose a root note
      and takes the user to another screen that displays a list of all possible chords. The project was coded
      in Java and used Android Studios.
-
-###[click here to visit our android app](https://github.com/eebalboni/Assignment3)
+###
+[click here to visit our android app](https://github.com/eebalboni/Assignment3)
 
 ## To return to home screen
 [Click here](./index.md)
