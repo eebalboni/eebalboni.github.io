@@ -1,7 +1,7 @@
 # Projects! 
 
 ## Here are some of my projects that I have been working on:
-### Peppa Pig Inspired video game
+### Peppa Pig Inspired Video Game
     This project was submitted in May of 2021. Our task was to show off
      object oriented programming skills we had learned over the course of the 
      semester. This game was coded using Java and was one of the first time working
@@ -29,9 +29,9 @@
 
 [click here to visit our android app](https://github.com/eebalboni/Assignment3)
 
-## To return to home screen
+## To return to Home Screen
 [Click here](./index.md)
 
-## To go to about screen
+## To go to About Screen
 [Click here](./about.md)
 

@@ -20,12 +20,10 @@
 
 
 ##  My interests:
-
     App and web development have been a passion of mine forever. I am currently taking an
     Android development class here at QU! I also am interested in education and cyber-security. 
 
 ## Outside the classroom:
-
     While on campus I am a facilitator for Girls Who Code. Girls Who Code is an organization
     that promotes girl empowerment and teaches girls ages 10-17 how to code! As a facilitator 
     I worked with girls every Tuesday throughout the semester on their coding projects along with 
@@ -33,10 +31,10 @@
     I also am a part of the Student Programming Board at QU as a general member. There 
     I help with running campus events for the QU community. 
   
-## To return to home screen
+## To return to Home Screen
 [Click here](./index.md)
 
-## To go to projects screen
+## To go to Projects Screen
 [Click here](./projects.md)
 
 
